@@ -20,6 +20,9 @@
 
 ### Welcome to the Flipper Zero Unleashed Firmware repo! 
 
+
+#### **This firmware is a fork from original (OFW) firmware** [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
+
 #### **This firmware is a fork from original (OFW) firmware** [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
 
 <br>
